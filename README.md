@@ -1,6 +1,17 @@
-#This is a readme.
+Piece-wise curve-fitting with Python tools
+--------------------------------------------
+© 2021 Dr Sebastien Sikora.
 
-Readme.
+[seb.nf.sikora@protonmail.com](mailto:seb.nf.sikora@protonmail.com)
 
+Updated 29/09/2021.
 
-Later, we tried to pull changes made in github back to my local repository.
+What is it?
+-------------------------
+
+This IPython notebook forms a tutorial that I wrote some years ago while working as a research fellow in the Department of Mechanical Engineering at Leeds University.
+
+It is a guide to using Python tools including numpy and scipy to work with research data, in this case to perform arbitrary curve-fitting, for the benefit of scientist colleagues comfortable with the algebra but uncomfortable moving beyond Microsoft Excel or the odd bit of Matlab to perform their analyses.
+
+[The tutorial](tutorial_ipython_notebook.ipynb)
+
