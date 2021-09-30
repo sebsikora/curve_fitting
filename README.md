@@ -1,4 +1,4 @@
-Piece-wise curve-fitting with Python tools - A tutorial
+# Piece-wise curve-fitting with Python tools - A tutorial
 ------------------------------------------------------------
 © 2021 Dr Sebastien Sikora.
 
