@@ -1,5 +1,5 @@
 # Piece-wise curve-fitting with Python tools - A tutorial
-------------------------------------------------------------
+
 © 2021 Dr Sebastien Sikora.
 
 [seb.nf.sikora@protonmail.com](mailto:seb.nf.sikora@protonmail.com)
